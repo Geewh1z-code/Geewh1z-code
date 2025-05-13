@@ -33,7 +33,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" height="50" /></a>  
 <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://numpy.org/images/logo.svg" alt="NumPy" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://hadoop.apache.org/hadoop-logo.jpg" alt="Hadoop" height="50" /></a>  
 <a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Spark" height="50" /></a>  
 </div>
