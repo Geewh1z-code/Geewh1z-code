@@ -4,7 +4,7 @@
 <a href="https://github.com/Geewh1z-code" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://t.me/gee_wh1z" target="_blank">
+<a href="https://t.me/gee_whz" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=permanent176@gmail.com" target="_blank">
